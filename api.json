@@ -1,0 +1,25 @@
+[{
+        "precio": 500,
+        "id": 1,
+        "title": "Blusa",
+        "thumbnailUrl": "imagen/blusa_1.PNG"
+    },
+    {
+        "precio": 550,
+        "id": 2,
+        "title": "Blusa",
+        "thumbnailUrl": "imagen/blusa_2.PNG"
+    },
+    {
+        "precio": 350,
+        "id": 3,
+        "title": "Blusa",
+        "thumbnailUrl": "imagen/blusa_3.PNG"
+    },
+    {
+        "precio": 500,
+        "id": 4,
+        "title": "Blusa",
+        "thumbnailUrl": "imagen/blusa_4.PNG"
+    }
+]

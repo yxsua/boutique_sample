@@ -1,0 +1,25 @@
+[{
+        "precio": 500,
+        "id": 1,
+        "title": "Negra",
+        "thumbnailUrl": "imagen/playera_1.PNG"
+    },
+    {
+        "precio": 550,
+        "id": 2,
+        "title": "Unisex",
+        "thumbnailUrl": "imagen/playera_2.PNG"
+    },
+    {
+        "precio": 350,
+        "id": 3,
+        "title": "Unisex",
+        "thumbnailUrl": "imagen/playera_3.PNG"
+    },
+    {
+        "precio": 500,
+        "id": 4,
+        "title": "Naranja",
+        "thumbnailUrl": "imagen/playera_4.PNG"
+    }
+]

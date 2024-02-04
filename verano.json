@@ -1,0 +1,25 @@
+[{
+        "precio": 500,
+        "id": 1,
+        "title": "Hombre",
+        "thumbnailUrl": "imagen/verano_3.PNG"
+    },
+    {
+        "precio": 550,
+        "id": 2,
+        "title": "Mujer",
+        "thumbnailUrl": "imagen/verano_1.PNG"
+    },
+    {
+        "precio": 350,
+        "id": 3,
+        "title": "Mujer",
+        "thumbnailUrl": "imagen/verano_2.PNG"
+    },
+    {
+        "precio": 500,
+        "id": 4,
+        "title": "Unisex",
+        "thumbnailUrl": "imagen/verano_4.PNG"
+    }
+]
